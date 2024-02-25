@@ -5,11 +5,11 @@
 🌱 I’m currently learning typescript, server-side programming, and graphql.
 💞️ I’m looking to collaborate on none.
 📫 How to reach me on this email: garadojosephmartin98@gmail.com.
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him.
 ⚡ Fun fact: None.
 
 
-<a href="https://github.com/JM-creater/unitee"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/JM-creater/unitee"><h2>🏆 Github Profile Trophies</h2></a>
 <a href="https://github.com/JM-creater/unitee">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=JM-creater&column=9&theme=gruvbox&no-frame=true"/>
 </a>
